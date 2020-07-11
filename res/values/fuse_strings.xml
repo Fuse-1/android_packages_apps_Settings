@@ -65,4 +65,8 @@
     <string name="lockscreen_shortcut_qr">QR code scanner</string>
     <string name="lockscreen_shortcut_camera">Camera</string>
     <string name="lockscreen_shortcut_none">None</string>
+
+    <!-- Status bar Icon Manager -->
+    <string name="icon_manager_title">Icon manager</string>
+    <string name="icon_manager_summary">Control visibility of status bar icons</string>
 </resources>
