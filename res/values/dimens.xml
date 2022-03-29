@@ -160,6 +160,9 @@
     <!-- horizontal: homepage_padding_horizontal_two_pane - homepage_app_bar_padding_two_pane -->
     <dimen name="homepage_app_bar_margin_horizontal_two_pane">18dp</dimen>
 
+    <!-- Card Layout -->
+    <dimen name="card_radius">0dp</dimen>
+
     <!-- Dimensions for Wifi Assistant Card -->
     <dimen name="wifi_assistant_padding_top_bottom">16dp</dimen>
     <dimen name="wifi_assistant_padding_start_end">16dp</dimen>
