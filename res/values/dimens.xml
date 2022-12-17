@@ -108,7 +108,7 @@
     <dimen name="actionbar_subsettings_contentInsetStart">72dp</dimen>
 
     <!-- Dashboard image tile size -->
-    <dimen name="dashboard_tile_image_size">36dp</dimen>
+    <dimen name="dashboard_tile_image_size">42dp</dimen>
 
     <!-- Dashboard foreground image size -->
     <dimen name="dashboard_tile_foreground_image_size">24dp</dimen>
@@ -513,4 +513,7 @@
     <dimen name="qrcode_icon_size">27dp</dimen>
     <!-- Margin for SD card setup completion Image -->
     <dimen name="setup_completion_margin_top">88dp</dimen>
+
+    <!--- Preference Divider -->
+    <dimen name="preference_divider">8dp</dimen>
 </resources>
