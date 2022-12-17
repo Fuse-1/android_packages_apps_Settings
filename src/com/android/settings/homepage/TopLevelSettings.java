@@ -189,7 +189,7 @@ public class TopLevelSettings extends DashboardFragment implements SplitLayoutLi
         iteratePreferences(preference -> {
             Drawable icon = preference.getIcon();
             if (icon != null) {
-                icon.setTint(tintColor);
+                icon.setTint(i);
             }
         });
     }
