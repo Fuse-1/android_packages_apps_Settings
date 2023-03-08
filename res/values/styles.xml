@@ -989,4 +989,8 @@
     <style name="TextAppearance.HomepagePreferenceTitle" parent="@android:style/TextAppearance.DeviceDefault">
         <item name="android:textSize">22sp</item>
     </style>
+
+    <style name="CircularImageView">
+        <item name="cornerSize">50%</item>
+    </style>
 </resources>
